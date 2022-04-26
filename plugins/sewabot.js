@@ -7,8 +7,8 @@ let handler = async m => m.reply(`
 │• 30K / Permanent
 │
 │ > Pembayaran :
-│• DANA : 08818770766
-│• TRI : 089520306297
+│• DANA : 089531724196
+│• TRI : 089531724196
 ╰────
 `.trim()) // Tambah sendiri kalo mau
 handler.help = ['sewa']
