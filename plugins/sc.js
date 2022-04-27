@@ -10,7 +10,7 @@ conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '*NIH KASIAN LU*', 'status@broa
 handler.help = ['sc']
 handler.tags = ['tutor']
 handler.command = /^(sc)$/i
-handler.owner = false
+handler.owner = true
 handler.mods = false
 handler.premium = false
 handler.group = false
