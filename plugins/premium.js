@@ -16,8 +16,8 @@ let info = `
 │• 50K / VIP (Permanen)
 │
 │ > Pembayaran :
-│• DANA : 08818770766
-│• TRI : 089520306297
+│• DANA : 089531724196
+│• TRI : 089531724196
 ╰────
 `.trim()
 
